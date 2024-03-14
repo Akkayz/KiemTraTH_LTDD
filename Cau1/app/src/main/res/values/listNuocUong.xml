@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drinks_array">
+        <item>Nước ngọt </item>
+        <item>Kem</item>
+        <item>Trái cây</item>
+        <item>Trà sữa</item>
+    </string-array>
+</resources>
